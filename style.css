@@ -1,0 +1,19 @@
+form {
+    background: gainsboro;
+}
+
+.col-form-label {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.form-control {
+    border: 1px solid black !important;
+}
+
+#description{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    padding: 30px;
+    font-size: 15px;
+}
