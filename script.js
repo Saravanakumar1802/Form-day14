@@ -3,7 +3,7 @@ container.setAttribute('class', 'container p-4');
 
 var heading = document.createElement('div');
 var heading_h1 = document.createElement('h1');
-//description
+
 var heading_ele = document.createElement('div');
 var heading_h3 = document.createElement('p');
 heading_ele.append(heading_h3)
